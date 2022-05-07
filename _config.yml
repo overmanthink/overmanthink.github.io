@@ -102,11 +102,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "정주영 Ju Young Jeong"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "명지대학교 물리학과 학생이며 블록체인에 큰 흥미를 가지고 있습니다. I am a physics student at Myongji University and very interested in blockchain."
+  location         : "Seoul"
+  email            : overmanthink99@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
